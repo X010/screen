@@ -1,0 +1,9 @@
+target
+.idea
+*/logs
+*.iml
+*.ipr
+*.iws
+build.*
+logs
+target
